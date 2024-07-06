@@ -1,1 +1,1 @@
-# staticsitegenerator
+# Static Site Generator
